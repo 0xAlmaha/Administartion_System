@@ -1,5 +1,5 @@
 class TeamsController < ApplicationController
   def index
-    render html: "hello team"
+    render html: "hello teams"
   end
 end
